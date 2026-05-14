@@ -1,0 +1,6 @@
+{
+  "name": "Quick Image Resizer",
+  "description": "A fast and simple tool to resize images in your browser without uploading them to a server.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
